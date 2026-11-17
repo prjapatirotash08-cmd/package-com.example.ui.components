@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_bg">#FF080808</color>
+    <color name="obsidian_surface">#FF121212</color>
+    <color name="gold_primary">#FFD4AF37</color>
+    <color name="gold_secondary">#FFF5D76E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

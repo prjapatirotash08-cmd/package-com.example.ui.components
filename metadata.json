@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Studio",
+  "description": "Luxury black-and-gold AI Photo Editing, Image Generation, and Creative Design Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
